@@ -1,0 +1,33 @@
+src/
+  server.ts
+
+  presentation/
+    http/
+      app.ts
+      routes/
+        usersRoute.ts
+
+  interface/
+    controllers/
+      usersController.ts
+    presenters/
+      usersPresenter.ts
+    dto/
+      usersDto.ts
+
+  usecase/
+    users/
+      userService.ts
+
+  domain/
+    users/
+      user.ts
+      userRepository.ts
+
+  infrastructure/
+    db/
+      client.ts
+      schema.ts
+      drizzle.config.ts
+    repositories/
+      drizzleUserRepository.ts
