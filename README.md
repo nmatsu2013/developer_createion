@@ -18,9 +18,9 @@ developer_createion is note
 
 ---
 
-## 10. よくある拡張ポイント（実装付き）
+## よくある拡張ポイント（実装付き）
 
-### 10-1. ユーザーの重複制約（email unique）
+### 1. ユーザーの重複制約（email unique）
 
 #### ① schema に unique 制約を追加
 
